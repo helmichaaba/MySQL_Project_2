@@ -18,7 +18,7 @@ Dive deeper into the database creation and panel data.
 
 ## Project Description
 The goal of this project is to create the database that reflects one of the important socio-economic subject, develop the composite indicator that allows to compare the countries/regions/cities/other objects and implement queries that return useful insights about your data.
-Subjects:
+Subject:
 - education
 
 You can work using the following approach:
